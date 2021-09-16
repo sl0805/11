@@ -1,0 +1,1 @@
+python test.py C:\Users\1\Desktop\words.txt C:\Users\1\Desktop\org.txt C:\Users\1\Desktop\result2.txt
